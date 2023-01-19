@@ -24,7 +24,7 @@ if(isset($_POST['save'])){
     $question_data['deadline'] = $deadline;
     $question_data['options'] = array();
     for($i=0; $i<count($options); $i++) {
-        $question_data['options'][$options[$i]] = array("text"=>$options[$i], "count"=>$count[$i]);
+        $question_data['options'][$options[$i]] = array("id"=>$i+1,"text"=>$options[$i],"count"=>$count[$i]);
     }
     $question_data = reset($filtered_data);
 foreach($data as $key => $val){
