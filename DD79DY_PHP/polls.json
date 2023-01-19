@@ -33,22 +33,27 @@
         "question": "Which city you like most ?",
         "options": {
             "New Delhi": {
+                "id": 1,
                 "text": "New Delhi",
                 "count": "1"
             },
             "London": {
+                "id": 2,
                 "text": "London",
                 "count": "0"
             },
             "Paris": {
+                "id": 3,
                 "text": "Paris",
                 "count": "3"
             },
             "Budapest": {
+                "id": 4,
                 "text": "Budapest",
                 "count": "0"
             },
             "New York": {
+                "id": 5,
                 "text": "New York",
                 "count": "2"
             }
@@ -62,18 +67,22 @@
         "question": "Have you watched The Wednesday ?",
         "options": {
             "Yes": {
+                "id": 1,
                 "text": "Yes",
                 "count": "0"
             },
             "No": {
+                "id": 2,
                 "text": "No",
                 "count": "0"
             },
             "I don't want to": {
+                "id": 3,
                 "text": "I don't want to",
                 "count": "2"
             },
             "I will watch it later": {
+                "id": 4,
                 "text": "I will watch it later",
                 "count": "0"
             }
