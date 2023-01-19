@@ -1,0 +1,95 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    font-family: Rockwell;
+    font-size: 3em;
+    font-weight: bold;
+    text-align:center;
+}
+h2 {
+    font-size: 2em;
+    font-weight: 500;
+    font-style: normal;
+    font-family: Times New Roman;
+    color: chocolate;
+}
+h3 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Lucida Handwriting;
+    font-size: 22px;
+    color: red;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 60%;
+}
+h4 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Lucida Handwriting;
+    font-size: 22px;
+    color: red;
+    text-align: left;
+    /* margin: 0 auto; */
+    max-width: 60%;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin: 10px 0;
+    font-size: 20px;
+    font-style: Georgia;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+.create-poll-button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    width: 150px;
+    float: right;
+}
+
+form {
+    text-align: center;
+}
+
+input[type="submit"] {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    font-style: normal;
+    font-family: 'Lucida Sans';
+    font-size: medium;
+}
+  

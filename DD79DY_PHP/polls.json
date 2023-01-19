@@ -1,0 +1,109 @@
+[
+    {
+        "id": "63c62e7a1b00f",
+        "question": "What is your favourite color ?",
+        "options": [
+            {
+                "id": 1,
+                "text": "Red",
+                "count": 1
+            },
+            {
+                "id": 2,
+                "text": "Blue",
+                "count": 0
+            },
+            {
+                "id": 3,
+                "text": "Green",
+                "count": 1
+            },
+            {
+                "id": 4,
+                "text": "None",
+                "count": 0
+            }
+        ],
+        "multiple_choice": false,
+        "deadline": "2023-01-31",
+        "created_at": "2023-01-17"
+    },
+    {
+        "id": "63c62eadba97f",
+        "question": "Which city you like most ?",
+        "options": {
+            "New Delhi": {
+                "text": "New Delhi",
+                "count": "1"
+            },
+            "London": {
+                "text": "London",
+                "count": "0"
+            },
+            "Paris": {
+                "text": "Paris",
+                "count": "3"
+            },
+            "Budapest": {
+                "text": "Budapest",
+                "count": "0"
+            },
+            "New York": {
+                "text": "New York",
+                "count": "2"
+            }
+        },
+        "multiple_choice": false,
+        "deadline": "2023-01-26",
+        "created_at": "2023-01-17"
+    },
+    {
+        "id": "63c62eff6f141",
+        "question": "Have you watched The Wednesday ?",
+        "options": {
+            "Yes": {
+                "text": "Yes",
+                "count": "0"
+            },
+            "No": {
+                "text": "No",
+                "count": "0"
+            },
+            "I don't want to": {
+                "text": "I don't want to",
+                "count": "2"
+            },
+            "I will watch it later": {
+                "text": "I will watch it later",
+                "count": "0"
+            }
+        },
+        "multiple_choice": true,
+        "deadline": "2023-02-15",
+        "created_at": "2023-01-17"
+    },
+    {
+        "id": "63c62f4512999",
+        "question": "What kind of movies do you like ?",
+        "options": [
+            {
+                "id": 1,
+                "text": "Fictional",
+                "count": 0
+            },
+            {
+                "id": 2,
+                "text": "Non-Fictional",
+                "count": 0
+            },
+            {
+                "id": 3,
+                "text": "I don't watch movies",
+                "count": 1
+            }
+        ],
+        "multiple_choice": false,
+        "deadline": "2023-01-18",
+        "created_at": "2023-01-17"
+    }
+]
